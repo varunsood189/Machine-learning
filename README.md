@@ -11,3 +11,19 @@ Result:
 I was able to seperate the photographs of people 1 cluster, notes photos 2nd cluster, meme or fun cluster images recieved on whatsapp 3rd cluster.
 It helped reduce my time to save only relevent images out of all the mixture of images.
 Save time.
+List of algorithms      
+
+	- [ ] Linear Regression
+	- [ ] Logistic Regression
+	- [ ] Decision Tree
+	- [ ] SVM
+	- [ ] Naive Bayes
+	- [ ] kNN
+	- [ ] K-Means
+	- [ ] Random Forest
+	- [ ] Dimensionality Reduction Algorithms
+	- [ ] Gradient Boosting algorithms
+	- [ ] GBM
+	- [ ] XGBoost
+	- [ ] LightGBM
+	- [ ] CatBoost

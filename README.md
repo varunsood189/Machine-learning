@@ -20,7 +20,7 @@ List of algorithms
 	- [ ] Naive Bayes
 	- [ ] kNN
 	- [ ] K-Means
-	- [ ] Random Forest
+	- [x] Random Forest
 	- [ ] Dimensionality Reduction Algorithms
 	- [ ] Gradient Boosting algorithms
 	- [ ] GBM

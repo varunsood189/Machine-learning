@@ -14,7 +14,7 @@ Save time.
 List of algorithms      
 
 	- [ ] Linear Regression
-	- [ ] Logistic Regression
+	- [X] Logistic Regression
 	- [ ] Decision Tree
 	- [ ] SVM
 	- [ ] Naive Bayes

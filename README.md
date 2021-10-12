@@ -27,3 +27,12 @@ List of algorithms
 	- [ ] XGBoost
 	- [ ] LightGBM
 	- [ ] CatBoost
+
+Logistic regression aplications:
+[] Fraud detection in Credit card
+[] Email spam or ham
+[] Sentiment Analysis in Twitter analysis
+[] Image segmentation, recognition, and classification – X-rays, Scans
+[] Object detection through video
+[] Handwriting recognition
+[] Disease prediction – Diabetes, Cancer, Parkinson etc…
